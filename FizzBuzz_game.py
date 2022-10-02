@@ -1,3 +1,7 @@
+from art import logo
+
+logo()
+
 user_input = int(input("Number:\n"))
 max_value = user_input + 1
 
